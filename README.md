@@ -12,4 +12,4 @@ I am available and looking for work moving into a more Devops environment. I sta
 
 My ideal job would be to work in a combination of all these areas. 
 
-If you want to get in contact, please use [twitter](http://twitter.com/allotmentandy1)
+If you want to get in contact, please use [twitter](http://twitter.com/allotmentandy1) OR add an issue to this [github repo] (https://github.com/allotmentandy/allotmentandy/issues/1)
