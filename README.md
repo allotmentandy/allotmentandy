@@ -11,3 +11,6 @@ I am available and looking for work moving into a more Devops environment. I sta
 - <a href="http://allotmentandy.github.io/blog/categories/tailwindcss">Tailwind CSS,</a> a great CSS framework which uses Laravel Mix and Webpack to provide an inline CSS framework. 
 
 My ideal job would be to work in a combination of all these areas. 
+
+![laravel](https://allotmentandy.github.io/assets/img/Laravel.svg)
+
