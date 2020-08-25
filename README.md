@@ -12,5 +12,4 @@ I am available and looking for work moving into a more Devops environment. I sta
 
 My ideal job would be to work in a combination of all these areas. 
 
-![laravel](https://allotmentandy.github.io/assets/img/Laravel.svg)
-
+If you want to get in contact, please use [twitter](http://twitter.com/allotmentandy1)
