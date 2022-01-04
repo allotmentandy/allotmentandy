@@ -9,7 +9,8 @@ I am available and looking for work moving into a more Devops environment. I sta
 - <a href="http://allotmentandy.github.io/blog/categories/jigsaw">Jigsaw,</a> the static site generator that i use for this blog, uses Laravel Blade templating
 - <a href="http://allotmentandy.github.io/blog/categories/markdown">Markdown,</a> the templating language for the Jigsaw site and Readme files.
 - <a href="http://allotmentandy.github.io/blog/categories/tailwindcss">Tailwind CSS,</a> a great CSS framework which uses Laravel Mix and Webpack to provide an inline CSS framework. 
+- <a href="http://allotmentandy.github.io/blog/categories/openstreetmap">Open Street Map,</a> using mapping technologies such as leaflet js to provide website mapping. 
 
-My ideal job would be to work in a combination of all these areas. 
+My ideal job would be to work in a combination of any of these areas. 
 
-If you want to get in contact, please use [twitter](http://twitter.com/allotmentandy1) OR add an issue to this [github repo](https://github.com/allotmentandy/allotmentandy/issues/1)
+If you want to get in contact, please use [twitter](http://twitter.com/andylondon) OR add an issue to this [github repo](https://github.com/allotmentandy/allotmentandy/issues/1)
