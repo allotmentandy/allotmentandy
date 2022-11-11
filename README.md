@@ -17,6 +17,6 @@ If you want to get in contact, please use [twitter](http://twitter.com/andylondo
 
 
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=social&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=social&logo=laravel&logoColor=red)
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=social&logo=Brave&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=social&logo=Brave&logoColor=red)
