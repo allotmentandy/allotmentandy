@@ -14,3 +14,9 @@ I am available and looking for work moving into a more Devops environment. I sta
 My ideal job would be to work in a combination of any of these areas. 
 
 If you want to get in contact, please use [twitter](http://twitter.com/andylondon) OR add an issue to this [github repo](https://github.com/allotmentandy/allotmentandy/issues/1)
+
+
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=social&logo=laravel&logoColor=white)
+
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=social&logo=Brave&logoColor=white)
