@@ -1,6 +1,6 @@
 # Welcome to my Allotment Andy github profile
 
-I am available and looking for work moving into a more Devops environment. I started a blog back in June and you can read more about what I have been learning and doing.
+I am available and looking for work moving into a more Devops environment. I started a blog back in June 2020 and you can read more about what I have been learning and doing.
 
 - <a href="http://allotmentandy.github.io/blog/categories/laravel">Laravel,</a> a fabulous PHP framework which i have been working with since version 4.2 
 - <a href="http://allotmentandy.github.io/blog/categories/bash">Bash,</a> the shell scripting and tool for command line computing 
@@ -17,6 +17,50 @@ If you want to get in contact, please use [twitter](http://twitter.com/andylondo
 
 
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=social&logo=laravel&logoColor=red)
+# Awesome AllotmentAndy
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=social&logo=Brave&logoColor=red)
+This is the start of a awesome style links list for stuff I like. 
+
+* [awesome awesome](https://github.com/emijrp/awesome-awesome#contributing)
+* [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
+## Laravel PHP
+* [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+
+## Ansible
+* [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible)
+
+## OpenStreetMap
+* [javnik36/awesome-osm](https://github.com/javnik36/awesome-osm)
+* [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap)
+
+## AWS
+* [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)
+* [https://github.com/aws-samples/php-examples-for-aws-lambda/blob/master/serverless-php-resources.md](https://github.com/aws-samples/php-examples-for-aws-lambda/blob/master/serverless-php-resources.md)
+
+##  Twitter
+* [hridaydutta123/awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools)
+
+## Tailwind CSS
+* [Correia-jpv/awesome-tailwindcss](https://github.com/Correia-jpv/fucking-awesome-tailwindcss)
+* [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)
+
+## SEO
+* [AHrefs](https://ahrefs.com/keyword-generator) - Ahrefs Keyword Generator
+* [teles/awesome-seo](https://github.com/teles/awesome-seo)
+
+## BizJets, Private Jets, Aviation & Aircraft
+* [Laas Corpjet](https://www.laasdata.com/corpjet/)
+
+## Typesense
+* [Typesense.org/](https://typesense.org/)
+* [reddit.com/r/typesense/](https://www.reddit.com/r/typesense/)
+
+## Bash Debian Shell
+
+* [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+
+
+
+
